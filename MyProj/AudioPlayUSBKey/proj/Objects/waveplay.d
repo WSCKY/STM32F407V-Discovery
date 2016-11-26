@@ -1,0 +1,46 @@
+.\objects\waveplay.o: ..\src\WavePlay.c
+.\objects\waveplay.o: ..\inc\WavePlay.h
+.\objects\waveplay.o: ..\..\Utilities\fat_fs\inc\ff.h
+.\objects\waveplay.o: ..\..\Utilities\fat_fs\inc\integer.h
+.\objects\waveplay.o: ..\inc\usb_conf.h
+.\objects\waveplay.o: ..\..\Libraries\CMSIS\STM32F4xx\stm32f4xx.h
+.\objects\waveplay.o: ..\..\Libraries\CMSIS\Include\core_cm4.h
+.\objects\waveplay.o: D:\KEIL MDK\Setup\ARM\ARMCC\Bin\..\include\stdint.h
+.\objects\waveplay.o: ..\..\Libraries\CMSIS\Include\core_cmInstr.h
+.\objects\waveplay.o: ..\..\Libraries\CMSIS\Include\core_cmFunc.h
+.\objects\waveplay.o: ..\..\Libraries\CMSIS\Include\core_cm4_simd.h
+.\objects\waveplay.o: ..\..\Libraries\CMSIS\STM32F4xx\system_stm32f4xx.h
+.\objects\waveplay.o: ..\main\stm32f4xx_conf.h
+.\objects\waveplay.o: ..\..\Libraries\STM32F4xx_StdPeriph_Driver\inc\stm32f4xx_adc.h
+.\objects\waveplay.o: ..\..\Libraries\CMSIS\STM32F4xx\stm32f4xx.h
+.\objects\waveplay.o: ..\..\Libraries\STM32F4xx_StdPeriph_Driver\inc\stm32f4xx_can.h
+.\objects\waveplay.o: ..\..\Libraries\STM32F4xx_StdPeriph_Driver\inc\stm32f4xx_crc.h
+.\objects\waveplay.o: ..\..\Libraries\STM32F4xx_StdPeriph_Driver\inc\stm32f4xx_cryp.h
+.\objects\waveplay.o: ..\..\Libraries\STM32F4xx_StdPeriph_Driver\inc\stm32f4xx_dac.h
+.\objects\waveplay.o: ..\..\Libraries\STM32F4xx_StdPeriph_Driver\inc\stm32f4xx_dbgmcu.h
+.\objects\waveplay.o: ..\..\Libraries\STM32F4xx_StdPeriph_Driver\inc\stm32f4xx_dcmi.h
+.\objects\waveplay.o: ..\..\Libraries\STM32F4xx_StdPeriph_Driver\inc\stm32f4xx_dma.h
+.\objects\waveplay.o: ..\..\Libraries\STM32F4xx_StdPeriph_Driver\inc\stm32f4xx_exti.h
+.\objects\waveplay.o: ..\..\Libraries\STM32F4xx_StdPeriph_Driver\inc\stm32f4xx_flash.h
+.\objects\waveplay.o: ..\..\Libraries\STM32F4xx_StdPeriph_Driver\inc\stm32f4xx_fsmc.h
+.\objects\waveplay.o: ..\..\Libraries\STM32F4xx_StdPeriph_Driver\inc\stm32f4xx_hash.h
+.\objects\waveplay.o: ..\..\Libraries\STM32F4xx_StdPeriph_Driver\inc\stm32f4xx_gpio.h
+.\objects\waveplay.o: ..\..\Libraries\STM32F4xx_StdPeriph_Driver\inc\stm32f4xx_i2c.h
+.\objects\waveplay.o: ..\..\Libraries\STM32F4xx_StdPeriph_Driver\inc\stm32f4xx_iwdg.h
+.\objects\waveplay.o: ..\..\Libraries\STM32F4xx_StdPeriph_Driver\inc\stm32f4xx_pwr.h
+.\objects\waveplay.o: ..\..\Libraries\STM32F4xx_StdPeriph_Driver\inc\stm32f4xx_rcc.h
+.\objects\waveplay.o: ..\..\Libraries\STM32F4xx_StdPeriph_Driver\inc\stm32f4xx_rng.h
+.\objects\waveplay.o: ..\..\Libraries\STM32F4xx_StdPeriph_Driver\inc\stm32f4xx_rtc.h
+.\objects\waveplay.o: ..\..\Libraries\STM32F4xx_StdPeriph_Driver\inc\stm32f4xx_sdio.h
+.\objects\waveplay.o: ..\..\Libraries\STM32F4xx_StdPeriph_Driver\inc\stm32f4xx_spi.h
+.\objects\waveplay.o: ..\..\Libraries\STM32F4xx_StdPeriph_Driver\inc\stm32f4xx_syscfg.h
+.\objects\waveplay.o: ..\..\Libraries\STM32F4xx_StdPeriph_Driver\inc\stm32f4xx_tim.h
+.\objects\waveplay.o: ..\..\Libraries\STM32F4xx_StdPeriph_Driver\inc\stm32f4xx_usart.h
+.\objects\waveplay.o: ..\..\Libraries\STM32F4xx_StdPeriph_Driver\inc\stm32f4xx_wwdg.h
+.\objects\waveplay.o: ..\..\Libraries\STM32F4xx_StdPeriph_Driver\inc\misc.h
+.\objects\waveplay.o: D:\KEIL MDK\Setup\ARM\ARMCC\Bin\..\include\stdbool.h
+.\objects\waveplay.o: ..\..\Utilities\fat_fs\inc\ffconf.h
+.\objects\waveplay.o: D:\KEIL MDK\Setup\ARM\ARMCC\Bin\..\include\string.h
+.\objects\waveplay.o: ..\inc\WavCodec.h
+.\objects\waveplay.o: ..\..\Utilities\STM32F4-Discovery\stm32f4_discovery.h
+.\objects\waveplay.o: ..\..\Utilities\STM32F4-Discovery\stm32f4_discovery_audio_codec.h
